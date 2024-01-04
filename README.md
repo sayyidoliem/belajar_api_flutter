@@ -1,6 +1,6 @@
-# belajar_api_flutter
+# Learn API Flutter
 
-A new Flutter project.
+Learn how to get and implement API in Flutter.
 
 ## Getting Started
 
